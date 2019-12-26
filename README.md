@@ -19,7 +19,6 @@ Logout-All Closes any active PSSession instances to avoid lockout -Exit will als
 About-Command Provides additional information about Commands
 View-Command -Toolbox Provides information about toolbox commands
 
-
 Toolbox Command Reference
 
 Clean-ProductKey removes office product activation keys from local machine
